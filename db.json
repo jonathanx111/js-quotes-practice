@@ -1,36 +1,6 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
-    },
-    {
-      "id": 2,
-      "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
-      "author": "Hannah Gadsby"
-    },
-    {
-      "id": 3,
-      "quote": "today a man on the street pointed to me & said ‘what the hell is that!?’ i wanted to turn around, tell him that i got this dress on sale & i got this body for free but you have been making me pay for both ever since.",
-      "author": "Alok Vaid Menon"
-    },
-    {
-      "id": 4,
-      "quote": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
-      "author": "Eleanor Roosevelt"
-    },
-    {
-      "id": 5,
-      "quote": "We had better not enjoy the moment, but create the moment.",
-      "author": "Ai Weiwei"
-    },
-    {
-      "id": 6,
-      "quote": "If I didn't define myself for myself, I would be crunched into other people's fantasies for me and eaten alive.",
-      "author": "Audre Lorde"
-    },
-    {
       "id": 7,
       "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
       "author": "Confucius"
@@ -46,26 +16,171 @@
       "author": "James Baldwin"
     },
     {
-      "id": 10,
-      "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
-      "author": "Sonia Sotomayor"
-    },
-    {
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "quote": "asd",
+      "author": "asdfadsf",
+      "likes": [],
+      "id": 12
+    },
+    {
+      "quote": "adsf",
+      "author": "asdfadsf",
+      "likes": [],
+      "id": 13
     }
   ],
   "likes": [
     {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
+      "quoteId": "12",
+      "id": 8
     },
     {
-      "quoteId": 10,
-      "id": 2,
-      "createdAt": 1558524358
+      "quoteId": 12,
+      "id": 25
+    },
+    {
+      "quoteId": 12,
+      "id": 26
+    },
+    {
+      "quoteId": 11,
+      "id": 47
+    },
+    {
+      "quoteId": 11,
+      "id": 48
+    },
+    {
+      "quoteId": 11,
+      "id": 49
+    },
+    {
+      "quoteId": 11,
+      "id": 50
+    },
+    {
+      "quoteId": 11,
+      "id": 51
+    },
+    {
+      "quoteId": 8,
+      "id": 52
+    },
+    {
+      "quoteId": 7,
+      "id": 123
+    },
+    {
+      "quoteId": 7,
+      "id": 124
+    },
+    {
+      "quoteId": 8,
+      "id": 125
+    },
+    {
+      "quoteId": 8,
+      "id": 126
+    },
+    {
+      "quoteId": 8,
+      "id": 127
+    },
+    {
+      "quoteId": 9,
+      "id": 128
+    },
+    {
+      "quoteId": 9,
+      "id": 129
+    },
+    {
+      "quoteId": 9,
+      "id": 130
+    },
+    {
+      "quoteId": 11,
+      "id": 131
+    },
+    {
+      "quoteId": 11,
+      "id": 132
+    },
+    {
+      "quoteId": 11,
+      "id": 133
+    },
+    {
+      "quoteId": 9,
+      "id": 134
+    },
+    {
+      "quoteId": 9,
+      "id": 135
+    },
+    {
+      "quoteId": 12,
+      "id": 136
+    },
+    {
+      "quoteId": 12,
+      "id": 137
+    },
+    {
+      "quoteId": 12,
+      "id": 138
+    },
+    {
+      "quoteId": 12,
+      "id": 139
+    },
+    {
+      "quoteId": 13,
+      "id": 140
+    },
+    {
+      "quoteId": 13,
+      "id": 141
+    },
+    {
+      "quoteId": 13,
+      "id": 142
+    },
+    {
+      "quoteId": 13,
+      "id": 143
+    },
+    {
+      "quoteId": 13,
+      "id": 144
+    },
+    {
+      "quoteId": 13,
+      "id": 145
+    },
+    {
+      "quoteId": 13,
+      "id": 146
+    },
+    {
+      "quoteId": 13,
+      "id": 147
+    },
+    {
+      "quoteId": 13,
+      "id": 148
+    },
+    {
+      "quoteId": 13,
+      "id": 149
+    },
+    {
+      "quoteId": 13,
+      "id": 150
     }
   ]
 }
